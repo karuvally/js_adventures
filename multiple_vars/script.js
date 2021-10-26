@@ -13,6 +13,7 @@ let occupation = 'Programmer';
 
 // The message to be shown as alert
 let message = 'സന്മനസ്സുള്ളവർക്ക് സമാധാനം';
+let new_message = `My name is ${name} and I am ${age} years old`;
 
 // A simple Hello World statement
-alert(message);
+alert(new_message);
